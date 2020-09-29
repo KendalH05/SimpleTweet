@@ -48,4 +48,7 @@
         android:layout_toEndOf="@+id/tvScreenName"
         android:textSize="10sp"
         tools:text="12:04pm" />
+    
+
+
 </RelativeLayout>

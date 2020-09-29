@@ -13,4 +13,9 @@
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
     </style>
 
+    <style name="LargeRedFont">
+        <item name="android:textColor">#C80000</item>
+        <item name="android:textSize">40sp</item>
+    </style>
+
 </resources>
